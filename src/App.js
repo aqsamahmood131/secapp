@@ -31,7 +31,7 @@ export default function App() {
       {/* <NewApi/> */}
       {/* <List/> */}
       {/* <MyApi/> */}
-      <Text>myapp</Text>
+      <Text>myapp1</Text>
     </View>
   )
 }
